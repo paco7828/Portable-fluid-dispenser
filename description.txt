@@ -1,6 +1,6 @@
 Portable-fluid-dispenser
 1. Place the plastic pipe into the desired fluid input tank (eg. bottle)
-2. Place the tank (eg. cup) under the fluid output
-3. Plug in the device
+2. Place the output tank (eg. cup) under the fluid output
+3. Plug in the device (USB-C 5V)
 4. When the button is pressed the water will be moved from the input
 to the output.
