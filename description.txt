@@ -4,3 +4,8 @@ Portable-fluid-dispenser
 3. Plug in the device (USB-C 5V)
 4. When the button is pressed the water will be moved from the input
 to the output.
+
+Extra improvement:
+  -bottle should be placed under the device (straw goes inside the bottle)
+  -ability to carry the device
+  -place the device on your desk with the bottle connected, press a button, and get the fluid out next to the bottle into the cup
